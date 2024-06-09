@@ -1,0 +1,6 @@
+use Test;
+use Getopt::Easy;
+
+pass "replace me";
+
+done-testing;
