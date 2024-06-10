@@ -6,6 +6,7 @@
   "build-depends": [
   ],
   "depends": [
+    "Text::Utils"
   ],
   "description": "Provides easy generation of CLI modes, options, and short and long help",
   "license": "Artistic-2.0",
@@ -16,7 +17,7 @@
   },
   "resources": [
   ],
-  "source-url": "",
+  "source-url": "https://github.com/tbrowder/Getopt-Easy.git",
   "tags": [
   ],
   "test-depends": [
